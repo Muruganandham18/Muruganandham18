@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Muruganandham18
-- 👀 I’m interested in Python,Djago,Telegram bot,Teleton
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on backend
-
-
-<!---
-Muruganandham18/Muruganandham18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Graduated from Pondicherry university, Having total 1+3 year of work experience on Django based PLM/ERP tools implementation with relational databases (3 years) based on client req. and python based electronic projects with Microprocessor and Controller (1 year). Specialised in Python programming (Django) and CloudVPS (linux). Experienced with various python projects related to business applications (ERP/PLM), chatbots,client-server architecture based enterprise application software in Python, deploying & Managing linux servers (AWS) for django applications on Apache or Nginx. Having good experience in handling large servers (ie.256GB RAM, 80-CPU) to deploy multiple projects. I am a memory conscious developer to avoid memory leaks which avoids servers running out of RAM.
